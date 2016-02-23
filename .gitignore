@@ -1,0 +1,7 @@
+/node_modules/*
+!/node_modules/.keep
+platforms/*
+!platforms/.gitkeep
+plugins/*
+!plugins/.gitkeep
+.idea/*

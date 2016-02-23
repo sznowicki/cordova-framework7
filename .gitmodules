@@ -1,0 +1,3 @@
+[submodule "app/Framework7"]
+	path = app/Framework7
+	url = git@github.com:sznowicki/Framework7.git
